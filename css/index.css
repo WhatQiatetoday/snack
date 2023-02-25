@@ -1,0 +1,14 @@
+.container{
+    width: 600px;
+    height: 600px;
+    background-color: rgba(0, 68, 255, 0.712);
+    border: 20px solid skyblue;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.start-btn{
+    width: 200px;
+    height: 80px;
+}
